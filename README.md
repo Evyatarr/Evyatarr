@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evyatarr
 - 👀 I’m interested in expanding my coding skills 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python HTML CSS and Javascript
 - 💞️ I’m looking to collaborate on new and exciting projects
 - 📫 How to reach me ...
 
